@@ -99,8 +99,8 @@ app/src/main/java/com/yourpackage/objectalarm/
 
 | İsim | Rol | İşletim Sistemi |
 |---|---|---|
-| [İsim 1] | Geliştirici | macOS |
-| [İsim 2] | Geliştirici | Windows |
+| Emin| Geliştirici | macOS |
+| [Maho | Geliştirici | Windows |
 
 ---
 
